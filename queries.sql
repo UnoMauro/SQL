@@ -1,3 +1,5 @@
+/*ENTREGABLES SQL*/
+
 CREATE TABLE teams (
   team_id INT PRIMARY KEY,
   name VARCHAR(100),
